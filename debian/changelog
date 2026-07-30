@@ -1,4 +1,4 @@
-disablerNetworkManager (0.1) noble; urgency=low
+disabler-network-manager (0.1) noble; urgency=low
 
   * Initial release.
 
