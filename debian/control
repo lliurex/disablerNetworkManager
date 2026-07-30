@@ -1,4 +1,4 @@
-Source: disablerNetworkManager 
+Source: disabler-network-manager 
 Section: utils
 Priority: optional
 Maintainer: LliureX Team <lliurex@gva.es> 
@@ -9,10 +9,11 @@ Homepage: https://portal.edu.gva.es/lliurex/va
 #Vcs-Browser: https://salsa.debian.org/debian/foo
 Vcs-Git: https://github.com/lliurex/disablerNetworkManager 
 
-Package: disablerNetworkManager
+Package: disabler-network-manager
 Architecture: all
 Depends:
  ${shlibs:Depends},
  ${misc:Depends},
-Description: <insert up to 60 chars description>
- <Insert long description, indented with spaces.>
+Description: polkit to disable network-manager for students
+ Disables network-manager for students, so they can not change or create new 
+ network connections. 
