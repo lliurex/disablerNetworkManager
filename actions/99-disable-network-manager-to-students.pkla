@@ -1,0 +1,6 @@
+[net.lliurex.disable-network-manager]
+Identity=unix-group:students;
+Action=org.freedesktop.NetworkManager.*
+ResultAny=no
+ResultInactive=no
+ResultActive=no
