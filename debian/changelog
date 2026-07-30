@@ -1,0 +1,5 @@
+disablerNetworkManager (0.1) jammy; urgency=low
+
+  * Initial release.
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Thu, 30 Jul 2026 13:23:41 +0200
