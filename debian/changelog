@@ -1,3 +1,9 @@
+disabler-network-manager (0.2) jammy; urgency=medium
+
+  * Install file on correct path
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Thu, 30 Jul 2026 16:38:05 +0200
+
 disabler-network-manager (0.1) jammy; urgency=low
 
   * Initial release.

@@ -1,2 +1,2 @@
-actions/99-disable-network-manager-to-students.pkla /usr/share/polkit-1/actions/
+actions/99-disable-network-manager-to-students.pkla /var/lib/polkit-1/localauthority/10-vendor.d
 
