@@ -3,8 +3,5 @@ polkit.addRule(function(action,subject){
                 if (subject.isInGroup("students")){
                         return polkit.Response.NO;
                 }
-                else{
-                        return polkit.Response.YES;
-                }
         }
 });
